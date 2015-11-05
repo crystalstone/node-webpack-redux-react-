@@ -1,0 +1,13 @@
+
+<div class="chat-list-container">
+    <div rt-if="this.state.isLoading === true ">
+        聊天记录加载中....
+    </div>
+    <div rt-if="this.state.isLoading === false ">
+        <div rt-repeat="chatItem in this.props.chatList" class="chatItem">
+            {chatItem.time};==asd
+            {chatItem.text};==fasd
+            {chatItem.type};=sdfasdasd
+        </div>
+    </div>
+</div>

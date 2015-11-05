@@ -1,0 +1,6 @@
+<div class="send-msg-container">
+    <input type="text" name="msg"/>
+    <button type="submit"
+            onClick={this.sendMsg.bind(this)} class="send"
+    >发送</span>
+</div>

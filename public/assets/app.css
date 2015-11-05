@@ -1,0 +1,15 @@
+.person-list .ant-pagination {
+  width: 153px;
+  float: right;
+  margin-top: 20px;
+}
+.send-msg-container {
+  border: 1px solid #0000ff;
+}
+.send-msg-container .send {
+  cursor: pointer;
+  padding: 5px 10px;
+  border: 1px solid #d8d8d8;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJhcHAuY3NzIiwic291cmNlUm9vdCI6IiJ9*/
